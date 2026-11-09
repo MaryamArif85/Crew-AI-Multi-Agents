@@ -23,11 +23,12 @@ Process: `Research → Analysis → Writing` (Sequential)
 ### Professional Writer Agent
 ![Professional Writer](images/professional-writer.png)
 
+### Task Completion
+![Task Completion](images/task-completion.png)
+
 ### Task - Final Report
 ![Task Final Report](images/task-final-report.png)
 
-### Task Completion
-![Task Completion](images/task-completion.png)
 
 ## Features
 
